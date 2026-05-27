@@ -1,4 +1,3 @@
-# CaroGame_Group5
 
 ## Giới thiệu dự án
 
