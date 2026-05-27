@@ -1,7 +1,7 @@
 
 ## Giới thiệu dự án
 
-**CaroGame_Group5** là dự án môn **Lập trình hướng đối tượng (OOP)** của **Nhóm 5**.
+Đây là dự án môn **Lập trình hướng đối tượng (OOP)** của **Nhóm 5**.
 
 Dự án xây dựng trò chơi **cờ caro** bằng **C++/SFML**, sử dụng **Visual Studio 2022**. Trò chơi được phát triển theo phong cách **tu tiên / tiên hiệp**, giúp giao diện và trải nghiệm chơi trở nên sinh động hơn so với game caro truyền thống.
 
