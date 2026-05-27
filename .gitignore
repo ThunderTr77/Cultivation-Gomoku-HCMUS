@@ -1,0 +1,32 @@
+# Visual Studio cache and user settings
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+x64/
+x86/
+Debug/
+Release/
+obj/
+*.exe
+*.pdb
+*.ilk
+*.ipdb
+*.iobj
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+
+# Local game data
+CaroGame_Group5/assets/saves/*.sav
+CaroGame_Group5/assets/saves/history.txt
+
+# OS files
+Thumbs.db
+Desktop.ini
